@@ -1,0 +1,10 @@
+project_id = "tkhvuoodcxrepwlwqvzd"
+
+[functions.process-scene]
+verify_jwt = false
+
+[functions.generate-image]
+verify_jwt = false
+
+[functions.auth-password]
+verify_jwt = false
