@@ -49,6 +49,6 @@ Create stunning visual storybooks with AI.
 - **Icons**: Lucide React
 - **Animations**: Framer Motion
 
-- ## Author
+  ## Author
 
 **Jiya**
