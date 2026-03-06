@@ -48,3 +48,7 @@ Create stunning visual storybooks with AI.
 - **AI**: Google Gemini/Other Models
 - **Icons**: Lucide React
 - **Animations**: Framer Motion
+
+- ## Author
+
+**Jiya**
